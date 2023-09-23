@@ -1,5 +1,5 @@
 # MasterCapstone
-This repo contains the python script and report of my master capstone paper. 
+This repo contains the python script and [report](https://github.com/OscarTheFE/MasterCapstone/blob/main/Capstone_Project__Market_Regime.pdf) of my master capstone paper. 
 ## Background: 
 The term market regime refers to the collective behavior of traders, which is usually a
 cluster of persistent market conditions. Market regimes are vital to researchers due to their relation to the
